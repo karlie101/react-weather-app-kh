@@ -1,0 +1,38 @@
+.Forecast {
+    padding: 20px;
+    border: 1px solid #ffca2c;
+    border-radius: 5px;
+  }
+  
+  .Forecast .elevate {
+    margin-bottom: 20px;
+  }
+  
+  .Forecast .weather-temperature img {
+    margin-right: 5px;
+    height: 64px;
+    width: 64px;
+  }
+  
+  .Forecast .weather-temperature strong {
+    color: #146c94;
+    font-size: 64px;
+    line-height: 1;
+    font-weight: 400;
+  }
+  
+  .Forecast .weather-temperature .breeze {
+    position: relative;
+    font-size: 16px;
+    top: -34px;
+  }
+  
+  .Forecast .weather-temperature .active {
+    color: black;
+    cursor: default;
+  }
+  
+  .Forecast .weather-temperature .active:hover {
+    text-decoration: none;
+  }
+  
